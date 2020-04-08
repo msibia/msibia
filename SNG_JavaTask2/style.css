@@ -1,0 +1,15 @@
+#background_container {
+    display: flex; justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#page_container {
+    width: 25%;
+}
+
+#title_container {
+    text-align: center;
+    background-color: silver;
+    border-radius: 5px;
+    height: 3rem;
+}
